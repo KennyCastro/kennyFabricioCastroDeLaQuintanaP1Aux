@@ -1,0 +1,11 @@
+{
+  "name": "kennypract1aux",
+  "version": "1.0.0",
+  "description": "Practica 1 Auxiliatura",
+  "main": "Pregunta3.js",
+  "scripts": {
+    "build": "tsc && node ./dist/Pregunta1.js"
+  },
+  "author": "Kenny",
+  "license": "ISC"
+}
